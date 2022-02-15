@@ -11,7 +11,7 @@ var printHelloName = function(firstName) {
 
 // another way to write this:
 function printHelloName1(yourName) {
-  var fullString = 'Hello, ' + yourName;
+  var fullString = 'Hello, ' + yourName + '!';
   return fullString;
 }
 
